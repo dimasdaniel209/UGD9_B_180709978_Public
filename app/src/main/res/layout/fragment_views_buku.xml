@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
-    tools:context="com.ugd9_x_yyyy.Views.ViewsBuku">
+    tools:context="com.ugd9_b_9978.Views.ViewsBuku">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"

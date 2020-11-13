@@ -9,7 +9,7 @@
     android:foregroundTint="#FF6D00"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.ugd9_b_9978.MainActivity">
 
     <include
         layout="@layout/content_main"

@@ -8,7 +8,7 @@
     app:cardBackgroundColor="#FFFFFF"
     app:cardCornerRadius="5dp"
     app:cardUseCompatPadding="true"
-    tools:context=".Adapters.AdapterDTBuku">
+    tools:context="com.ugd9_b_9978.Adapters.AdapterDTBuku">
 
 
     <LinearLayout

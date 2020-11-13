@@ -4,7 +4,7 @@
     android:id="@+id/frame_view_mahasiswa"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Views.ViewsMahasiswa">
+    tools:context="com.ugd9_b_9978.Views.ViewsMahasiswa">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler_view"

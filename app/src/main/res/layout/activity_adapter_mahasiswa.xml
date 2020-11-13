@@ -9,7 +9,7 @@
     android:layout_marginRight="10dp"
     app:cardBackgroundColor="#0091EA"
     app:cardCornerRadius="5dp"
-    tools:context="Adapters.AdapterMahasiswa">
+    tools:context="com.ugd9_b_9978.Adapters.AdapterMahasiswa">
 
     <com.guanaj.easyswipemenulibrary.EasySwipeMenuLayout
         android:layout_width="match_parent"

@@ -8,7 +8,7 @@
     app:cardBackgroundColor="#FFFFFF"
     app:cardCornerRadius="5dp"
     app:cardUseCompatPadding="true"
-    tools:context=".Adapters.AdapterBuku">
+    tools:context="com.ugd9_b_9978.Adapters.AdapterBuku">
 
     <com.guanaj.easyswipemenulibrary.EasySwipeMenuLayout
         android:layout_width="match_parent"

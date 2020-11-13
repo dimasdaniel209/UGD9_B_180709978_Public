@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFFFF"
-    tools:context=".Views.TambahEditBuku">
+    tools:context="com.ugd9_b_9978.Views.TambahEditBuku">
 
     <LinearLayout
         android:layout_width="match_parent"

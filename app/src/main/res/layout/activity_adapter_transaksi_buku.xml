@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    tools:context="com.ugd9_x_yyyy.Adapters.AdapterTransaksiBuku">
+    tools:context="com.ugd9_b_9978.Adapters.AdapterTransaksiBuku">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
